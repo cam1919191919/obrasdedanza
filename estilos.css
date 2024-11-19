@@ -1,0 +1,32 @@
+@font-face{
+    font-family: italic;
+    src: url(philosopher/Philosopher-BoldItalic.ttf)
+}
+
+body {
+    font-family: italic;}
+
+    nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ac80c0;
+}
+
+.fuente{
+    font-family:'italic';
+}
