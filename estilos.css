@@ -12,6 +12,7 @@ body {
     font-family: italic;}
 
     nav ul {
+        background-color: rgb(99, 71, 126);;
     list-style-type: none;
     display: flex;
     justify-content: center;
